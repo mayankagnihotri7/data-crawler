@@ -12,7 +12,7 @@
  
 ## Library Used
 - Axios ( https://www.npmjs.com/package/axios ).
-- Cheerio ( https://www.npmjs.com/package/axios ).
+- Cheerio ( https://www.npmjs.com/package/cheerio ).
 - TailwindCSS ( https://tailwindcss.com/ ).
 
 ## Developer
